@@ -4,6 +4,7 @@
 // @version      0.2
 // @description  Functions: Auto displays upload box, Autofills folder input, Auto checks "autostart downloading" option, Modifies "stream" button url to FTP one's
 // @author       LeO
+// @updateURL    https://github.com/leoglock/Seedbox_Script/raw/master/script.user.js
 // @match        http://mytorrent.ovh:9091/transmission/web/
 // @match        http://mytorrent.ovh
 // @grant        none
