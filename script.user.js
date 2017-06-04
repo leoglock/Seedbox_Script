@@ -2,7 +2,7 @@
 // @name         Transmission :: Useful Script
 // @namespace    http://tampermonkey.net/
 // @version      0.3
-// @description  Functions: Auto displays upload box, Autofills folder input, Auto checks "autostart downloading" option, Modifies "stream" button url to FTP one's
+// @description  Automated functions: Displaying uploax box, Filtering downloading torrents, Checking autostart option, filling the folder with a desired name, modifying stream button url to ftp one's
 // @author       LeO
 // @updateURL    https://github.com/leoglock/Seedbox_Script/blob/master/script.user.js
 // @match        http://*/transmission/web/
