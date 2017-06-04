@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Transmission :: Useful Script
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  Functions: Auto displays upload box, Autofills folder input, Auto checks "autostart downloading" option, Modifies "stream" button url to FTP one's
 // @author       LeO
 // @updateURL    https://github.com/leoglock/Seedbox_Script/blob/master/script.user.js
