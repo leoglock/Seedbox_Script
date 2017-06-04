@@ -13,7 +13,7 @@
     'use strict';
 	// Don't forget to rename "YOUR_FOLDER".
     document.getElementById('upload_container').style="display:block;"; // Displays the upload box automatically
-    document.getElementById('add-dialog-folder-input').value="/home/downloader/here/leo/"; // Autofills the folder input with a desired name (example: /home/downloader/here/michael).
+    document.getElementById('add-dialog-folder-input').value="/home/downloader/here/YOUR_FOLDER/"; // Autofills the folder input with a desired name (example: /home/downloader/here/michael).
     document.getElementById('torrent_auto_start').checked="checked"; // Automatically checks the "autostart downloading" option.
     $(document).ready(function(){
     $('a').each(function(){
